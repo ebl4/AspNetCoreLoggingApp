@@ -1,0 +1,5 @@
+2022-09-25T20:45:37.5950729-03:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-09-25T20:45:37.6145670-03:00  [INF] Hosting environment: "Development" (c3307c92)
+2022-09-25T20:45:37.6180310-03:00  [INF] Content root path: "C:\Users\Edson\source\repos\AspNetCoreLoggingApp\AspNetCoreLoggingApp" (b5d60022)
+2022-09-25T20:45:37.9915094-03:00 80000002-0000-fb00-b63f-84710c7967bb [INF] Log message in the Index() method (d2c930e3)
+2022-09-25T20:45:43.5405761-03:00 80000004-0000-fa00-b63f-84710c7967bb [INF] Log message in the Privacy() method (cc49c597)
